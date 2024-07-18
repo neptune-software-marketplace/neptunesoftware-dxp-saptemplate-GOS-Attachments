@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Marketplace APP GOS - Attachments</CTEXT>
+    <CTEXT>MARKET_GOS_ATTACHMENT</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
