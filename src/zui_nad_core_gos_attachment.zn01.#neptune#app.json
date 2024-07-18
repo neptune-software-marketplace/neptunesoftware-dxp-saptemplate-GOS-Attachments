@@ -1,0 +1,15 @@
+[
+  {
+    "app_type": "A",
+    "clsname": "ZCL_NAD_CORE_GOS_ATTACHMENT",
+    "title": "GOS Attachment",
+    "descr": "GOS Attachment",
+    "descr_mc": "GOS ATTACHMENT",
+    "use_css_desktop": "X",
+    "library": "5",
+    "ui5_m": "X",
+    "icfnode": "SDK",
+    "origin": "000000000",
+    "sqlite_type": 0
+  }
+]

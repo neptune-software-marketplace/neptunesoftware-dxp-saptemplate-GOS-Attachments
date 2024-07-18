@@ -1,0 +1,32 @@
+[
+  {
+    "field_id": "00028",
+    "version": "0001",
+    "model_id": "00007",
+    "model": "tabAttachment",
+    "receive": "X"
+  },
+  {
+    "field_id": "00028",
+    "version": "0001",
+    "model_id": "00040",
+    "model": "newAttachment",
+    "receive": "X"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "model_id": "00007",
+    "model": "tabAttachment",
+    "send": "X",
+    "receive": "X"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "model_id": "00040",
+    "model": "newAttachment",
+    "send": "X",
+    "receive": "X"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "field_id": "00007",
+    "event": "delete",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.tabAttachment.00007.delete.js"
+  },
+  {
+    "field_id": "00023",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.butAdd.00023.press.js"
+  },
+  {
+    "field_id": "00028",
+    "event": "ajaxSuccess",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.GetList.00028.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00031",
+    "event": "ajaxSuccess",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.Save.00031.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00032",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.butCancel.00032.press.js"
+  },
+  {
+    "field_id": "00033",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.butSave.00033.press.js"
+  },
+  {
+    "field_id": "00040",
+    "event": "delete",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.newAttachment.00040.delete.js"
+  },
+  {
+    "field_id": "00051",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.txttabAttachmentDESCRIPTION.00051.press.js"
+  },
+  {
+    "field_id": "00054",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_attachment.zn01.#neptune#_evtscr.txttabAttachmentCREAT_FNAME.00054.press.js"
+  }
+]

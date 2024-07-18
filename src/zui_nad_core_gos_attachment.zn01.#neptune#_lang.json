@@ -1,0 +1,16 @@
+[
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "language": "D",
+    "attribute": "headerText",
+    "field_label": "Anhänge"
+  },
+  {
+    "field_id": "00040",
+    "version": "0001",
+    "language": "D",
+    "attribute": "headerText",
+    "field_label": "Anhänge"
+  }
+]

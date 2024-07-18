@@ -1,0 +1,6 @@
+[
+  {
+    "field_id": "00025",
+    "value": "onchange=\"sap.n.GOS.upload(event)\" multiple"
+  }
+]

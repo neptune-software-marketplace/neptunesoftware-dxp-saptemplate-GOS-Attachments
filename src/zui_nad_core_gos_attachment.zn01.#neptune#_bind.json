@@ -1,0 +1,18 @@
+[
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_ATTACHMENT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00040",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_ATTACH_NEW",
+    "binding_root_field_id": "00000"
+  }
+]

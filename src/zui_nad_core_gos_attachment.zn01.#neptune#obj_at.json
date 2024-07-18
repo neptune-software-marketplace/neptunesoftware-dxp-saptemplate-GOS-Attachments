@@ -1,0 +1,380 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "showSubHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "delete",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "fixedLayout",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "growingThreshold",
+    "grouping": "Properties",
+    "value": "50"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "mode",
+    "grouping": "Properties",
+    "value": "Delete"
+  },
+  {
+    "field_id": "00008",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "20px"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "End"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Size (kb)"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100px"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "number:SAPUserDefault"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-FILE_SIZE}"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Select Files"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "id",
+    "grouping": "Global",
+    "value": "fileUploader"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "type",
+    "grouping": "Component",
+    "value": "file"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00029",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "oApp.setBusy(false);"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00032",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00032",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Cancel"
+  },
+  {
+    "field_id": "00033",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00033",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Save"
+  },
+  {
+    "field_id": "00033",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Name"
+  },
+  {
+    "field_id": "00036",
+    "attribute": "color",
+    "grouping": "Properties",
+    "value": "red"
+  },
+  {
+    "field_id": "00036",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "sap-icon://delete"
+  },
+  {
+    "field_id": "00036",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-DELETE}"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "expandable",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://upload"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://attachment"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "delete",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "fixedLayout",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "growingThreshold",
+    "grouping": "Properties",
+    "value": "50"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "mode",
+    "grouping": "Properties",
+    "value": "Delete"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Name"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "demandPopin",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "End"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Size (kb)"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100px"
+  },
+  {
+    "field_id": "00046",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACH_NEW-DESCRIPTION}"
+  },
+  {
+    "field_id": "00047",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "number:SAPUserDefault"
+  },
+  {
+    "field_id": "00047",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACH_NEW-FILE_SIZE}"
+  },
+  {
+    "field_id": "00048",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Large"
+  },
+  {
+    "field_id": "00048",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Date"
+  },
+  {
+    "field_id": "00048",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "80px"
+  },
+  {
+    "field_id": "00049",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Large"
+  },
+  {
+    "field_id": "00049",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Time"
+  },
+  {
+    "field_id": "00049",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "60px"
+  },
+  {
+    "field_id": "00050",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Desktop"
+  },
+  {
+    "field_id": "00050",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "By"
+  },
+  {
+    "field_id": "00051",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00051",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-DESCRIPTION}"
+  },
+  {
+    "field_id": "00052",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:SAPUserDefault"
+  },
+  {
+    "field_id": "00052",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-CREAT_DATE}"
+  },
+  {
+    "field_id": "00053",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "time:HH:mm"
+  },
+  {
+    "field_id": "00053",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-CREAT_TIME}"
+  },
+  {
+    "field_id": "00054",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00054",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_ATTACHMENT-CREAT_FNAM}"
+  }
+]
